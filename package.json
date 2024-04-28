@@ -18,8 +18,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@chandrashekar2001/ecommerce-shared": "npm:@ChandraShekar2001/ecommerce-shared@^1.0.2",
+    "@chandrashekar2001/ecommerce-shared": "npm:@chandrashekar2001/ecommerce-shared@^1.0.2",
     "@elastic/elasticsearch": "^8.13.1",
+    "@faker-js/faker": "^8.4.1",
     "@types/compression": "^1.7.5",
     "amqplib": "^0.10.4",
     "bcryptjs": "^2.4.3",
@@ -38,6 +39,7 @@
     "sequelize": "^6.37.3",
     "typescript": "^5.4.5",
     "typescript-transform-paths": "^3.4.7",
+    "unique-username-generator": "^1.3.0",
     "uuid4": "^2.0.3",
     "winston": "^3.13.0"
   },
